@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SM64 Speedruns
+title: SM64 Speedruns - A Python & SQL Project
 date: 2023-12-23
 categories: ["python", "pandas", "sql"]
 ---
