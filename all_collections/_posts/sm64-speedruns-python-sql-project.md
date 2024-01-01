@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SM64 Speedruns - A Python & SQL Project
+title: SM64 Speedruns
 date: 2023-12-23
 categories: ["jekyll", "python", "sql"]
 ---
