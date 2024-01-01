@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 title: Jekyll Serial Programmer
 markdown: kramdown
 
@@ -27,4 +26,3 @@ defaults:
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 =======
 remote_theme: jekyll-theme-serial-programmer
->>>>>>> 25f276091ba21f8d3e0789fffdeae02273f0f3c1
