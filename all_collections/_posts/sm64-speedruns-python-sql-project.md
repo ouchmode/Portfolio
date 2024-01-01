@@ -2,7 +2,7 @@
 layout: post
 title: SM64 Speedruns
 date: 2023-12-23
-categories: ["jekyll", "python", "sql"]
+categories: ["python", "pandas", "sql"]
 ---
 
 This project was made after getting into Python in November '23 (mostly utilizing the Pandas module). I also wanted to work on my SQL skills a bit so after doing research and writing notes I was able to come up with this project. You can [view it here.](https://github.com/ouchmode/SM64-Speedrun-Data).
