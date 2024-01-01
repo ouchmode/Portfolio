@@ -1,10 +1,10 @@
-title: Jekyll Serial Programmer
+title: Anthony Rondini
 markdown: kramdown
 
 # for atom feed
 author:
-  name: Sharad Raj Singh Maurya
-  email: dev_sharad@outlook.com
+  name: Anthony Rondini
+  email: anthony.rondini227@gmail.com
 
 plugins:
   - jemoji
