@@ -12,7 +12,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
-collections_dir: all_collections
+collections_dir: all_collections/_posts
 collections:
   posts:
     output: true
