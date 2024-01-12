@@ -13,4 +13,4 @@ The goal of this project was to practice Power BI and strengthen my skills in Py
 - Matrix based on Popularity and Loudness and how they may possibly correlate.
 - Radial chart for the Explicit column to show how many songs are Explicit / Non-Explicit. Has a bit more meaning when broken down by clicking data points on other charts.
 - 
-![Image](https://github.com/ouchmode/Portfolio/blob/main/images/spotify_vis.png)
+![Image](/images/spotify_vis.png)
