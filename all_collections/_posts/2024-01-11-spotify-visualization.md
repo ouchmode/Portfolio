@@ -13,6 +13,7 @@ The goal of this project was to practice Power BI and strengthen my skills in Py
 - Matrix based on Popularity and Loudness and how they may possibly correlate.
 - Radial chart for the Explicit column to show how many songs are Explicit / Non-Explicit. Has a bit more meaning when broken down by clicking data points on other charts.
 - Area chart showing the popularity of X number of tracks.
+  - Can drill down into a data point to see all of the Genres used in the number of tracks. 
 - Scatter plot to show how loudness can correlate to the mood and danceability of a track.
   
 ![Spotify Visual](../../img/spotify_vis.PNG)
