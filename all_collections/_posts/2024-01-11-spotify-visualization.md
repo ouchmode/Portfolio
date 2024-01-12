@@ -15,4 +15,4 @@ The goal of this project was to practice Power BI and strengthen my skills in Py
 - Area chart showing the popularity of X number of tracks.
 - Scatter plot to show how loudness can correlate to the mood and danceability of a track.
   
-![Image](/images/spotify_vis.png)
+![Spotify Visual](https://github.com/ouchmode/Portfolio/blob/dda1c99c9292b8ec3f6dfed613b36259244dce96/images/spotify_vis.png)
