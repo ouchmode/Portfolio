@@ -24,5 +24,4 @@ defaults:
       layout: "post"
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
-=======
 remote_theme: jekyll-theme-serial-programmer
