@@ -12,5 +12,7 @@ The goal of this project was to practice Power BI and strengthen my skills in Py
 - Option to filter by genre via list (originally a dropdown but it seems you can't change the height of the list that appears when you click it).
 - Matrix based on Popularity and Loudness and how they may possibly correlate.
 - Radial chart for the Explicit column to show how many songs are Explicit / Non-Explicit. Has a bit more meaning when broken down by clicking data points on other charts.
-- 
+- Area chart showing the popularity of X number of tracks.
+- Scatter plot to show how loudness can correlate to the mood and danceability of a track.
+  
 ![Image](/images/spotify_vis.png)
