@@ -18,7 +18,7 @@ Project led by Mo Chen on YouTube: See [here](https://www.youtube.com/watch?v=m1
 
 - With a few filters from the Slicers selected:
 
-![Coffee Sales Dashboard Filtered](../../img/main_dashboard_filtered.png)
+![Coffee Sales Dashboard Filtered](../../img/dashboard_filtered.png)
 
 ## **Excel Cloud Limitations** 
 I do not have access to using the Desktop Excel version due to financial reasons so I am using the Cloud version of Excel instead. This comes with limitations, and there were some points in the tutorial where I ran into some.
