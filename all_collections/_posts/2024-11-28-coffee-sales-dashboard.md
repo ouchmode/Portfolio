@@ -5,7 +5,7 @@ date: 2024-11-28
 categories: ["excel", "excel-on-cloud", "formulas", "visualization"]
 ---
 
-Excel project with the goal of creating a dashboard to display various sales data based on customers, country, etc. and to utilize formulas like XLOOKUP and INDEX/MATCH  
+Excel project with the goal of creating a dashboard to display various sales data based on customers, country, etc. and to utilize formulas like XLOOKUP and INDEX/MATCH, pivot tables and charts.   
 
 Project led by Mo Chen on YouTube: See [here](https://www.youtube.com/watch?v=m13o5aqeCbM)
 
