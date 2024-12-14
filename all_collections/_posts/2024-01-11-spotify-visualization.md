@@ -24,8 +24,8 @@ The goal of this project was to practice Power BI and strengthen my skills in Py
 Filtering the dataset down to Black-Metal updates the other charts with relevant data based on the selected genre. 
 
 From this, we can understand a few things:
-- (Matrix) The loudness is about midway on average (i'm surprised it's not louder. maybe there are some melodic / calmer bits?).
-  - *I may add an avg. "total" field in this matrix so you can just know the average.a*
+- (Matrix) The loudness is about midway on average (I'm surprised it's not louder. maybe there are some melodic / calmer bits?).
+  - *I may add an avg. "total" field in this matrix so you can just know the average.*
 - (Area Chart) There are significantly more tracks between 15 and 25 Popularity, with this we can see that the average popularity of Black-Metal tracks isn't too high, and few that are decent.
 - (Radial Chart) Selecting a genre like Black-Metal and then something like Ambient, or even Pop, it's clear that there are more tracks with swearing or expletives in a genre like Black-Metal that is typically associated with darker tones. Whereas Ambient or Pop are more calming or upbeat. It's just a radial chart so I have to make it seem cool.
 - (Scatter Plot) With this chart, we can see that the Loudness seems to affect the Danceability and Energy of the track. The red area on the right is the "Maximum+" Energy level which is the highest. The danceability of these Black-Metal tracks isn't too high, but they are quite loud and very energetic - seems about right.

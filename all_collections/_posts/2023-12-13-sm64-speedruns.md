@@ -11,7 +11,7 @@ The dataset isn't complex, but I wanted to use something fun and relatable to me
 
 I added more than enough comments in the code while I was making this as a way to make sure I understand everything and keep notes.
 
-Below are two examples of the questions I tested myself on with the dataset I used. Here, I utilized Jupyter Notebook's SQL Magic (preceeding SQL statements with "%%sql" directly in Python outputs a DataFrame with the result of the statement(s)).
+Below are two examples of the questions I tested myself on with the dataset I used. Here, I utilized Jupyter Notebook's SQL Magic (preceding SQL statements with "%%sql" directly in Python outputs a DataFrame with the result of the statement(s)).
 
 
 **First Place Times (per category, per platform (N64, EMU, VC))**
