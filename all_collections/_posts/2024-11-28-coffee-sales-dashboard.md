@@ -20,6 +20,8 @@ Project led by Mo Chen on YouTube: See [here](https://www.youtube.com/watch?v=m1
 
 ![Coffee Sales Dashboard Filtered](../../img/dashboard_filtered.png)
 
+
+### **Note: as of 1/2/24 I now have access to MSO365 and can use Desktop Excel again. Woohoo!
 ## **Excel Cloud Limitations** 
 I do not have access to using the Desktop Excel version due to financial reasons so I am using the Cloud version of Excel instead. This comes with limitations, and there were some points in the tutorial where I ran into some.
 - When using pivot tables, it isn't possible to group the data. As in, I can't right-click the PT and group by a certain data point. I had to split the order date into separate columns and then use the month name (e.g. "Jan"), and the Year.
