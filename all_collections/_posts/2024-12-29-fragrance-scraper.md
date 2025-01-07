@@ -14,6 +14,9 @@ Web Scraper made in Python with Selenium to extract results from the fragrance s
 ## TO DO:
 1. Pull the fragrance notes from Jomashop for now instead of Parfumo. I mainly wanted to pull from Parfumo originally since I believe the community helps with determining notes, similar to Fragrantica. There are also some other stats on there I wanted to pull eventually. Jomashop for pricing, Parfumo / Fragrantica for descriptions.
 
+## Most Recent Task Completed:
+Refactored the code a bit for readability and better understanding on my part. Everything got too messy at one point and I thought i'd refactor after learning a bit more on Python and it's syntax. Also, in general I felt my approach to retrieving and storing the data when scraping was a bit much. Now it feels smoother and less messy."
+
 ## find_frags([driver]):
 While on Jomashop.com (the fragrances section), it scrolls down the page a few times to load the content and then scrapes the following:
 - ``` class="brand-name" ```
